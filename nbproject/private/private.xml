@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Foundation/FOrder.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Models/Cash.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Models/Product.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Controllers/AdminMiddleware.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Models/Cart.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Models/Category.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/templates/cart/cart.tpl</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Models/PaymentMethod.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/routes.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Views/VCategory.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Foundation/FFavourites.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Foundation/FCustomer.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Controllers/AuthMiddleware.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Models/CreditCard.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/template_c/40f1d5cff0f47ed662acf3af70356f26b8558107_0.file.favourites.tpl.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Models/User.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/script/tasteit.sql</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Models/Address.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Foundation/FConnection.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Views/VFavourites.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Models/Customer.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Foundation/FAddress.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Foundation/FCart.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Foundation/FCategory.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/script/scriptDb.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Models/Restaurant.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/src/Models/Review.php</file>
+            <file>file:/C:/Users/mohamed/Desktop/università/3°%20Anno/programmazione%20per%20il%20web/TasteIt-main/index.php</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,19 @@
+{
+    "name": "mohamed/taste-it",
+    "authors": [
+        {
+            "name": "mohamed",
+            "email": "mosama550@yahoo.com"
+        }
+    ],
+    "require": {
+        "pecee/simple-router": "4.3.2.1",
+        "smarty/smarty": "~3.1",
+      "ext-pdo": "*"
+    },
+    "autoload" : {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    }
+}
